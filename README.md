@@ -1,9 +1,6 @@
 LinearRoad_Storm
 ==========
-This is a Storm implementation of LinearRoad Benchmark(http://www.cs.brandeis.edu/~linearroad/) which is completely written in Java. If you are using this LinearRoad implementation in your work please cite our technical report.
-
-M. Dayarathna, Y. Li, Y. Wen, and R. Fan. ["Energy consumption analysis of data stream processing: A
-benchmarking approach."](http://cap.sce.ntu.edu.sg/publication/DLWF-Technical-Report-15.pdf) Technical report, NTU Tech. Rep., May, 2015
+This is a Storm implementation of LinearRoad Benchmark(http://www.cs.brandeis.edu/~linearroad/) which is completely written in Java.
 
 ##1. Introduction
 
